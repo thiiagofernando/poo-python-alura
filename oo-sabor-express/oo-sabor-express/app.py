@@ -1,6 +1,6 @@
 from modelos.restaurante import  Restaurante
 
-restaurante_praca = Restaurante('Praça','Gourmet')
+restaurante_praca = Restaurante('Praca','Gourmet')
 restaurante_praca.receber_avaliacao('Joao',10)
 restaurante_praca.receber_avaliacao('Maria',8)
 
